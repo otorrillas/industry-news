@@ -1,8 +1,6 @@
-# Industry news
+# September 2018
 
-## September 2018
-
-### Web
+## Web
 
 - [The BA data breach - hack][ba news]
 - Chrome 69
@@ -25,7 +23,7 @@
 
   ![Display cutouts][display cutouts]
 
-### Mobile
+## Mobile
 
 - New iPhones! Without [3.5mm dongle][no dongles] included! (extra $9)
   - XR ($749)
@@ -35,7 +33,7 @@
 
 ![iPhone XS][iphone xs]
 
-### IoT
+## IoT
 
 - Apple Watch 4 with FDA clearance
 
@@ -45,7 +43,7 @@
 
 ![rpi pocket projector demo][rpi pocket projector demo]
 
-### Others
+## Others
 
 - FramerX: we've been given Beta access!
   - Store
